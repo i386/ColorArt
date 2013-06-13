@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   # Specify the location from where the source should be retrieved.
   #
-  s.source       = { :git => "http://EXAMPLE/ColorArt.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/i386/ColorArt", :tag => "0.0.1" }
 
 
   # If this Pod runs only on iOS or OS X, then specify the platform and
